@@ -1,0 +1,5 @@
+*.exe
+/anotacoes
+input.txt
+compilar.bat
+.vscode
